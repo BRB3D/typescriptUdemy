@@ -20,4 +20,13 @@
 const today = new Date();
 today.getMonth;
 
+const person = {
+  age:20
+};
+
+class Color {
+// no method
+}
+
+const red = new Color();
 
